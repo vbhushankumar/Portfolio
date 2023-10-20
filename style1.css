@@ -74,11 +74,5 @@
         font-size: 5em;
     }
 
-    .contactus-form-container {
-        margin-top: 25px;
-        display: flex;
-        flex-direction: column;
-        align-items: start;
-        justify-content: center ;
-    }
+ 
 }
