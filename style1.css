@@ -76,9 +76,8 @@
 
     .contactus-form-container {
         margin-top: 25px;
-        display: flex;
-        flex-direction: column;
-        align-items: start;
-        justify-content: center ;
+        display: block;
+        align-items: center;
+        justify-content: center;
     }
 }
